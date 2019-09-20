@@ -23,3 +23,7 @@ Javascript, along with Node.js and React are more commonly adopted in the web de
 ## Thoughts
 
 Although the methodology for this research was based on survey, the article was able to provid a basic roadmap of what the next generation of programmers will know. More and more students realize a CS degree is not deterministic in getting a development job. More students are self teaching themselves languages that they haven't been in school. Students are aware of the industry that they wish to get employed in and are preparing for it. While most people try to self teach themselves, the passion for learning is present among students. In the article, it states college students with a CS degree are trying to learn six new languages while most senior developers are comfortable with learning four. 
+
+## Comment Made by [Zichuan](https://github.com/AnonymousUserOliver) 
+
+Even though it may not be the primary agenda of the author of the article, it informs me on what I should teach myself first as an aspiring developer. In fact, I will dive deep into JavaScript online tutorials after I finish this assignment, as the survey suggests that more than 40% of employers need it. That said, since Hackerrank is a company that focuses on competitive programming challenges, could some of the fact be misrepresented in the company's interest? 
