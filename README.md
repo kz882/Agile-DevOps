@@ -27,3 +27,8 @@ Although the methodology for this research was based on survey, the article was 
 ## Comment Made by [Zichuan](https://github.com/AnonymousUserOliver) 
 
 Even though it may not be the primary agenda of the author of the article, it informs me on what I should teach myself first as an aspiring developer. In fact, I will dive deep into JavaScript online tutorials after I finish this assignment, as the survey suggests that more than 40% of employers need it. That said, since Hackerrank is a company that focuses on competitive programming challenges, could some of the fact be misrepresented in the company's interest? 
+
+
+## Comment Made by [Kailin](https://github.com/kz882)
+
+Nice article and comments here! HackerRank is often used by big companies to give Online Assessment for applicants for SDE and the alike. Everytime I see an email popping up with a HackerRank invitation link I panic - I knew I am not gonna make it to even the second round.. The coding challenges are designed in such a way, that except for genius, students must practice on Leetcode outside of class to succeed. This is the inital idea of HackerRank : school and degree and big names don't prove anything, "show me the code". :(
